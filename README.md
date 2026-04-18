@@ -1,4 +1,4 @@
-# lovelace-frigate-event-feed <a href="https://josephmienko.github.io/lovelace-frigate-event-feed"><img src="auth-logo-light.svg" align="right" height="138" /></a>
+# lovelace-frigate-event-feed <a href="https://josephmienko.github.io/lovelace-frigate-event-feed"><img src="auth-logo-light.svg" align="right" height="50" /></a>
 
 <!-- badges: start -->
 
