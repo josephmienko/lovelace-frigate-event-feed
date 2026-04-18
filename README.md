@@ -1,10 +1,25 @@
-# lovelace-frigate-event-feed <a href="https://josephmienko.github.io/lovelace-frigate-event-feed"><img src="auth-logo-light.svg" align="right" height="75" /></a>
-
-<!-- badges: start -->
-
-Part of the Crooked Sentry universe | [![Validate](https://github.com/josephmienko/lovelace-frigate-event-feed/actions/workflows/validate.yml/badge.svg)](https://github.com/josephmienko/lovelace-frigate-event-feed/actions/workflows/validate.yml)
-[![Codecov test coverage](https://codecov.io/gh/josephmienko/lovelace-frigate-event-feed/badge.svg)](https://app.codecov.io/gh/josephmienko/lovelace-frigate-event-feed)
-<!-- badges: end -->
+<table>
+  <tr>
+    <td valign="top">
+      <h1>lovelace-frigate-event-feed</h1>
+      <hr>
+      <p>
+        Part of the Crooked Sentry universe |
+        <a href="https://github.com/josephmienko/lovelace-frigate-event-feed/actions/workflows/validate.yml">
+          <img src="https://github.com/josephmienko/lovelace-frigate-event-feed/actions/workflows/validate.yml/badge.svg" alt="Validate">
+        </a>
+        <a href="https://app.codecov.io/gh/josephmienko/lovelace-frigate-event-feed">
+          <img src="https://codecov.io/gh/josephmienko/lovelace-frigate-event-feed/badge.svg" alt="Codecov test coverage">
+        </a>
+      </p>
+    </td>
+    <td valign="top" align="right">
+      <a href="https://josephmienko.github.io/lovelace-frigate-event-feed">
+        <img src="auth-logo-light.svg" height="75" alt="Logo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Overview
 
