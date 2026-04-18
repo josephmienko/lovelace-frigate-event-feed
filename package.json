@@ -1,0 +1,14 @@
+{
+  "name": "lovelace-frigate-event-feed",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build_plugin.mjs",
+    "check": "node --check src/frigate-event-feed.js && node --check dist/lovelace-frigate-event-feed.js",
+    "test": "node tests/validate-dist.mjs",
+    "validate": "npm run build && npm run check && npm test"
+  }
+}

@@ -1,0 +1,14 @@
+type: custom:frigate-event-feed
+instance_id: frigate
+cameras:
+  - front_door
+labels:
+  - person
+title: Recent Events
+limit: 12
+media: thumbnail
+show_camera: auto
+has_clip: true
+has_snapshot: true
+poll_interval_seconds: 45
+play_target_selector: advanced-camera-card
