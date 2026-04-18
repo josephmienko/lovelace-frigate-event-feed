@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
     <!-- Desktop Dark Mode -->
-    <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="header-wide-dark-inline.svg">
+    <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="_includes/header-wide-dark-inline.svg">
     <!-- Desktop Light Mode -->
-    <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="header-wide-light-inline.svg">
+    <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="_includes/header-wide-light-inline.svg">
     <!-- Mobile Dark Mode -->
-    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="header-stacked-dark-inline.svg">
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="_includes/header-stacked-dark-inline.svg">
     <!-- Mobile Light Mode -->
-    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="header-stacked-light-inline.svg">
-    <img src="header-wide-light-inline.svg" alt="lovelace-frigate-event-feed" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="_includes/header-stacked-light-inline.svg">
+    <img src="_includes/header-wide-light-inline.svg" alt="lovelace-frigate-event-feed" />
   </picture>
 </p>
 
