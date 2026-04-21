@@ -9,14 +9,18 @@
     <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="_includes/header-stacked-dark-inline.svg">
     <!-- Mobile Light Mode -->
     <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="_includes/header-stacked-light-inline.svg">
-    <img src="_includes/header-wide-light-inline.svg" alt="crooked-sentry-appliances" />
+    <img src="_includes/header-wide-light-inline.svg" alt="
+lovelace-frigate-event-feed" />
   </picture>
 </p>
 
 <p align="left">
   Part of the Crooked Sentry universe&nbsp;|&nbsp;
-  <a href="https://github.com/josephmienko/crooked-sentry-appliances/actions/workflows/validate.yml"><img src="https://github.com/josephmienko/crooked-sentry-appliances/actions/workflows/validate.yml/badge.svg" alt="Validate" align="absmiddle" /></a>&nbsp;
-  <a href="https://app.codecov.io/gh/josephmienko/crooked-sentry-appliances"><img src="https://codecov.io/gh/josephmienko/crooked-sentry-appliances/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
+  <a href="https://github.com/josephmienko/
+lovelace-frigate-event-feed/actions/workflows/validate.yml"><img src="https://github.com/josephmienko/
+lovelace-frigate-event-feed/actions/workflows/validate.yml/badge.svg" alt="Validate" align="absmiddle" /></a>&nbsp;
+  <a href="https://app.codecov.io/gh/josephmienko/
+lovelace-frigate-event-feed"><img src="https://codecov.io/gh/josephmienko/crooked-sentry-appliances/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
 </p>
 
 
