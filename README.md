@@ -1,29 +1,22 @@
-
 <p align="center">
   <picture>
     <!-- Desktop Dark Mode -->
-    <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="_includes/header-wide-dark-inline.svg">
+    <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="assets/header-wide-dark-inline.svg">
     <!-- Desktop Light Mode -->
-    <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="_includes/header-wide-light-inline.svg">
+    <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="assets/header-wide-light-inline.svg">
     <!-- Mobile Dark Mode -->
-    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="_includes/header-stacked-dark-inline.svg">
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/header-stacked-dark-inline.svg">
     <!-- Mobile Light Mode -->
-    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="_includes/header-stacked-light-inline.svg">
-    <img src="_includes/header-wide-light-inline.svg" alt="
-lovelace-frigate-event-feed" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="assets/header-stacked-light-inline.svg">
+    <img src="assets/header-wide-light-inline.svg" alt="lovelace-frigate-event-feed" />
   </picture>
 </p>
 
 <p align="left">
   Part of the Crooked Sentry universe&nbsp;|&nbsp;
-  <a href="https://github.com/josephmienko/
-lovelace-frigate-event-feed/actions/workflows/validate.yml"><img src="https://github.com/josephmienko/
-lovelace-frigate-event-feed/actions/workflows/validate.yml/badge.svg" alt="Validate" align="absmiddle" /></a>&nbsp;
-  <a href="https://app.codecov.io/gh/josephmienko/
-lovelace-frigate-event-feed"><img src="https://codecov.io/gh/josephmienko/
-lovelace-frigate-event-feed/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
+  <a href="https://github.com/josephmienko/lovelace-frigate-event-feed/actions/workflows/validate.yml"><img src="https://github.com/josephmienko/lovelace-frigate-event-feed/actions/workflows/validate.yml/badge.svg" alt="Validate" align="absmiddle" /></a>&nbsp;
+  <a href="https://app.codecov.io/gh/josephmienko/lovelace-frigate-event-feed"><img src="https://codecov.io/gh/josephmienko/lovelace-frigate-event-feed/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
 </p>
-
 
 ## Overview
 
