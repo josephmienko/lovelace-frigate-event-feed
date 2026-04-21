@@ -20,7 +20,8 @@ lovelace-frigate-event-feed" />
 lovelace-frigate-event-feed/actions/workflows/validate.yml"><img src="https://github.com/josephmienko/
 lovelace-frigate-event-feed/actions/workflows/validate.yml/badge.svg" alt="Validate" align="absmiddle" /></a>&nbsp;
   <a href="https://app.codecov.io/gh/josephmienko/
-lovelace-frigate-event-feed"><img src="https://codecov.io/gh/josephmienko/crooked-sentry-appliances/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
+lovelace-frigate-event-feed"><img src="https://codecov.io/gh/josephmienko/
+lovelace-frigate-event-feed/badge.svg" alt="Codecov test coverage" align="absmiddle" /></a>
 </p>
 
 
