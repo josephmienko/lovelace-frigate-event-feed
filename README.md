@@ -1,4 +1,3 @@
-<h1 style="display: none;"><a href="https://josephmienko.github.io/lovelace-frigate-event-feed/">lovelace-frigate-event-feed</a></h1>
 <picture align="center">
   <!-- Desktop Dark Mode -->
   <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="assets/header-wide-dark-inline.svg">
@@ -99,6 +98,7 @@ This is optional and not required for basic event listing.
 The CI workflow fails if the built artifact is out of date.
 
 ## Packaging Rules
+
 # Design Notes
 
 The card does not accept direct Frigate host/IP parameters. Backend routing is handled by the Home Assistant Frigate integration, keeping the card logic simple and consistent with HA's architecture
